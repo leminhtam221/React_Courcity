@@ -1,0 +1,22 @@
+button.btn-small {
+  display: inline-block;
+  background: #02b3e4;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 12px 32px;
+  border-radius: 3px;
+  text-transform: capitalize;
+  color: #fff;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 25px 0 rgba(46, 61, 73, 0.15);
+  border: none;
+}
+
+button.btn-small:hover {
+  color: #fff;
+  background: #454545;
+}
+
+.sign-in-1x .sign-in-form button.btn-small {
+  float: right;
+}

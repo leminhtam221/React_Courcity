@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "baseUrl": "src"
+  },
+  "include": [
+    "src/**/*", "src/assets/js/jquery.min.js"
+  ]
+}
